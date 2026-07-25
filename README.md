@@ -4,6 +4,7 @@ A platformer where you shift between dimensions to solve puzzles and get past ob
 
 ## Play it
 [(https://pineappleblue.itch.io/dimensions-door)]
+Note: You have to go full screen to get to ui
 
 ## Controls
 - Move: WASD
