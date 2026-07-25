@@ -12,4 +12,4 @@ A platformer where you shift between dimensions to solve puzzles and get past ob
 - All controls are adjustable in settings
 
 ## Screenshot
-![gameplay](Assets/screenshot.png)
+![gameplay](screenshot.png)
